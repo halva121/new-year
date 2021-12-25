@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.konteiner 
+{
+max-width:768px;
+padding:0 10px;
+margin:0 auto;
+}
+.HEADER
+{
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:darkblue;
+height:70px;
+}
+.HEADER img
+{
+height:80%;
+padding:10px;
+}
+.logo
+{
+    height:80%;
+    padding:10px;
+    }
+.main
+{
+    background-image:url(fon.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+.main img{
+display:block;
+padding-top:80px;
+padding-bottom: 20PX;
+    margin-left:auto;
+margin-right: auto;
+}
+.footer
+{
+height:200px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:black;
+color: white;
+}
+.footer img
+{
+    height:90%;
+    padding:10px;
+
+}
+h1
+{
+font-style: italic;
+font-size: auto;
+text-align: center;
+}
+h4
+{padding-top:10%;
+padding-right:20px;
+text-align: center;
+}
+a
+{
+text-decoration:none;
+color:purple;
+}
+@media screen and (max-width:600px)
+{
+.footer{
+display: flex;
+flex-direction: column;
+height:100%;
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
